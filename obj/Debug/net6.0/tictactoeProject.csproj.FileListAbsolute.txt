@@ -1,0 +1,15 @@
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\bin\Debug\net6.0\tictactoeProject.exe
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\bin\Debug\net6.0\tictactoeProject.deps.json
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\bin\Debug\net6.0\tictactoeProject.runtimeconfig.json
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\bin\Debug\net6.0\tictactoeProject.dll
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\bin\Debug\net6.0\tictactoeProject.pdb
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.csproj.AssemblyReference.cache
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.AssemblyInfoInputs.cache
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.AssemblyInfo.cs
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.csproj.CoreCompileInputs.cache
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.dll
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\refint\tictactoeProject.dll
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.pdb
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\tictactoeProject.genruntimeconfig.cache
+C:\Users\S538964\OneDrive - nwmissouri.edu\Desktop\tictactoeProject\obj\Debug\net6.0\ref\tictactoeProject.dll
